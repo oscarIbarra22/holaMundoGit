@@ -2,3 +2,5 @@ esta es la historia de oscar ibarra
 
 cumpleaños el 15 de septiembre 
 le gusta el futbol
+
+practicar git es fundamental
